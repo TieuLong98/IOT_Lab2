@@ -1,5 +1,5 @@
 # Lab2_IOT
-Code LAB2 IOT Class written 90% in C# and 10% in python
+Code LAB2 IOT Class written 99.8% in C# and 0.2% in python
 *********************************
 First, the name of the project is IOT_Lab2.
 *********************************
