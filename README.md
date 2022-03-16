@@ -9,6 +9,6 @@ Every single script is set into "Asset/Script". However, there is a script named
 *********************************
 Moreover, Latex files are also included in "Latex" folder.
 *********************************
-Last, the Client publishing data to Server is the Old Client written in python which directory is "ClientPublish/main.py".
+Last, the Client publishing data to Server is the Old Client in Lab1 written in python which directory is "ClientPublish/main.py".
 *********************************
 Thank you for Reading!!!
